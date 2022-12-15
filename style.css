@@ -1,0 +1,89 @@
+body {
+    background-image: linear-gradient(to right, rgb(232, 36, 134),rgba(156, 52, 185, 0.943),rgb(233, 204, 38),rgb(48, 197, 217));
+  }
+  h1 {
+      
+      text-decoration: underline;
+      color: black;
+      text-align: center;
+  }
+  h2{
+      color:  black;
+      font-weight: normal;
+      text-align: center;
+  }
+  button{
+      border: 10px solid white;
+      border-radius: 30px;
+      box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.945);
+      margin: 20px auto;
+      display: block;
+      color: white;
+      font-size: 20px;background: transparent;
+      padding: 15px 20px;
+      transform: all 200ms ease;
+  }
+  a {
+      color: white;
+      font-size: 15px;
+  }
+  
+  button:hover {
+      color: white;
+      background: rgb(96, 53, 53);
+  }
+  ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  }
+  
+  li{
+      display: inline;
+      margin: 20px 15px;
+  }
+  a{
+      text-decoration: none;
+  }
+  a:hover {
+      text-decoration: underline;
+  }
+  .workshops {
+      color: black;
+      font-size: 25px;
+  }
+  .coders{
+      color: black;
+      font-size: 25px;
+  }
+  .stories {
+      color: black;
+      font-size: 25px;
+  }
+  .contact-details {
+      text-align: center;
+      font-size: 25px;
+  }
+  .contact-platform {
+      color: rgb(8, 8, 8);
+  }
+  a{
+      font-size: 35px;
+    
+  
+  }
+  
+  .info-heading {
+      text-align: center;
+      font-weight: bold;
+      font-size: 30px;
+  }
+  p{
+      text-align: center;
+  }
+  iframe {
+      display: block;
+      margin: 90px auto;
+  }
+  
+  
